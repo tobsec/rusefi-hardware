@@ -548,6 +548,10 @@
     [
       "c54dfc25-031d-44b3-8719-9001fa6318a4",
       "Dual AUX analog input 2"
+    ],
+    [
+      "fccfe585-b346-4d91-9cec-b29e9ffcb219",
+      "EGT Protection"
     ]
   ],
   "text_variables": {}
